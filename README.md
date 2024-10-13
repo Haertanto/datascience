@@ -1,4 +1,5 @@
 # Belajar Data Science
+# [Daftar Istilah](https://github.com/Haertanto/datascience/blob/main/Daftar%20Istilah.md)
 ## 1. The Powah of Data
 Kenalan dulu sama yang namanya data, terus pelajarin gimana data bisa bantu kita buat ngambil keputusan. Setelah itu, ada latihan-latihan seru buat ngasah skill dalam pengolahan data. Yuk, belajar tentang data!
 
@@ -70,7 +71,7 @@ Selain skill di bidang data, di data science kamu juga perlu paham teknologi, te
 5.6. **Rangkuman: Machine Learning untuk Data Science**: Kita akan rangkum semua yang sudah kita pelajari.
 
 # Rangkuman Kelas
-# Daftar Istilah
+
 # Referensi
 1. "What is Data Science?" [https://www.ibm.com/topics/data-science](https://www.ibm.com/topics/data-science) 
 
