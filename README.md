@@ -1,20 +1,20 @@
 # Belajar Data Science
-## 1. The Power of Data
-Kenalan dulu sama yang namanya data, terus pelajarin gimana data bisa bantu kita buat ngambil keputusan. Setelah itu, ada latihan-latihan seru buat ngasah skill dalam pengolahan data.
+## 1. The Powah of Data
+Kenalan dulu sama yang namanya data, terus pelajarin gimana data bisa bantu kita buat ngambil keputusan. Setelah itu, ada latihan-latihan seru buat ngasah skill dalam pengolahan data. Yuk, belajar tentang data!
 
-1.1. Berkenalan dengan Data 
+1.1. **Kenalan Dulu Sama Data**: Kita bakal ngebahas apa sih sebenarnya data itu dan kenapa penting banget.
 
-1.2. Jenis-Jenis Data 
+1.2. **Data-data Unik**: Ternyata data itu macam-macam lho, ada yang gampang dipahami, ada juga yang kompleks banget.
 
-1.3. Menentukan Keputusan dengan Data 
+1.3. **Ngebikin Keputusan yang Jitu**: Mau tahu gimana caranya bikin keputusan yang gak salah? Data bisa bantu banget!
 
-1.4. Big Data in Action
+1.4. **Data yang Super Banyak**: Bayangin aja data yang banyaknya kebangetan, kita bakal bahas gimana cara ngolahnya.
 
-1.5. Evolusi Ilmu Big Data 
+1.5. **Data yang Terus Berkembang**: Ilmu tentang data itu gak pernah berhenti berkembang, kita bakal lihat sejarahnya.
 
-1.6. Latihan The Power of Data 
+1.6. **Yuk, Praktek Langsung!** Kita bakal coba-coba ngolah data kecil-kecilan biar makin paham.
 
-1.7. Rangkuman The Power of Data 
+1.7. **Ringkasan Singkat**: Kita rangkum lagi semua yang udah kita pelajari biar gak lupa.
 
 ## 2. Fundamental Data Science
 Lanjut kita kenalan dulu sama yang namanya Data Science dengan deskripsi dan fakta-fakta menarik. Terus, kita bahas tren data science di dunia, gimana hubungannya sama matematika, sampai ngebahas hierarki di data science.
