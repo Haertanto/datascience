@@ -1,5 +1,15 @@
 # Belajar Data Science
-# [Daftar Istilah](https://github.com/Haertanto/datascience/blob/main/Daftar%20Istilah.md)
+## Tools
+* Komputer/Laptop Bebas pake OS apa aja, Windows, Linux, maupun MacOS. Yang penting terhubung dengan internet. Spesifikasi minimal:
+* Prosesor: Intel Celeron (Rekomendasi Core i3 ke atas)
+* RAM: 2 GB (Rekomendasi 4 GB)
+* Resolusi layar: 1366 x 768 (Rekomendasi Full HD 1920 x 1080)
+
+## Web Browser:
+Web browser yang digunakan bervariasi, bisa Google Chrome, Mozilla Firefox, Microsoft Edge, atau yang lainnya.
+
+Fungsi utamanya mengakses Spreadsheet, Docs, dan Slide yaitu aplikasi pengelolaan data, membuat dokumentasi, dan membuat visualisasi data seperti grafik/chart dari hasil analisis data.
+## [Daftar Istilah](https://github.com/Haertanto/datascience/blob/main/Daftar%20Istilah.md)
 ## 1. The Powah of Data
 Kenalan dulu sama yang namanya data, terus pelajarin gimana data bisa bantu kita buat ngambil keputusan. Setelah itu, ada latihan-latihan seru buat ngasah skill dalam pengolahan data. Yuk, belajar tentang data!
 
@@ -70,9 +80,9 @@ Selain skill di bidang data, di data science kamu juga perlu paham teknologi, te
 
 5.6. **Rangkuman: Machine Learning untuk Data Science**: Kita akan rangkum semua yang sudah kita pelajari.
 
-# Rangkuman Kelas
+## Rangkuman Kelas
 
-# Referensi
+## Referensi
 1. "What is Data Science?" [https://www.ibm.com/topics/data-science](https://www.ibm.com/topics/data-science) 
 
 2. Maryanto, B (2019). "BIG DATA DAN PEMANFAATANNYA DALAM BERBAGAI SEKTOR". Media Informatika Vol.16 No.2 
