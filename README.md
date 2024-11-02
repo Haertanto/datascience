@@ -81,7 +81,7 @@ Selain skill di bidang data, di data science kamu juga perlu paham teknologi, te
 5.6. **Rangkuman: Machine Learning untuk Data Science**: Kita akan rangkum semua yang sudah kita pelajari.
 
 ## Rangkuman Kelas
-<!--
+
 ## Referensi
 1. "What is Data Science?" [https://www.ibm.com/topics/data-science](https://www.ibm.com/topics/data-science) 
 
@@ -92,4 +92,4 @@ Selain skill di bidang data, di data science kamu juga perlu paham teknologi, te
 4. Putri, H.N, Saputro D.R (2022). “Clustering Data Campuran Numerik dan Kategorik Menggunakan Algoritme Ensemble Quick RObust Clustering using LinKs (QROCK)”. PRISMA 
 
 5. The Council on Quality and Leadership "12 REASONS why data is important" 
--->
+
